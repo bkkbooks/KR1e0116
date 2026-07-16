@@ -25,6 +25,7 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KR1e0116_WYG_000-1a04}
   - {type: indent, offset: 9, content: 　　　　, id: KR1e0116_WYG_000-bkkind4}
   - {type: punctuation, offset: 9, content: (, id: KR1e0116_WYG_000-bkkpn1}
+  - {type: voice, offset: 9, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 10, content: /, id: KR1e0116_WYG_000-bkkpn2}
   - {type: punctuation, offset: 10, content: ), id: KR1e0116_WYG_000-bkkpn3}
   - {type: 'kr:newline', offset: 19, content: '
@@ -72,6 +73,7 @@ markers:
   - {type: line-break, offset: 139, content: '', id: KR1e0116_WYG_000-1b04}
   - {type: indent, offset: 139, content: 　　　　, id: KR1e0116_WYG_000-bkkind12}
   - {type: punctuation, offset: 142, content: (, id: KR1e0116_WYG_000-bkkpn4}
+  - {type: voice, offset: 142, length: 18, name: note, id: n2}
   - {type: punctuation, offset: 151, content: /, id: KR1e0116_WYG_000-bkkpn5}
   - {type: punctuation, offset: 160, content: ), id: KR1e0116_WYG_000-bkkpn6}
   - {type: 'kr:newline', offset: 165, content: '
@@ -354,6 +356,7 @@ markers:
   - {type: line-break, offset: 1014, content: '', id: KR1e0116_WYG_000-4b07}
   - {type: indent, offset: 1014, content: 　　　　, id: KR1e0116_WYG_000-bkkind63}
   - {type: punctuation, offset: 1029, content: (, id: KR1e0116_WYG_000-bkkpn7}
+  - {type: voice, offset: 1029, length: 18, name: note, id: n3}
   - {type: punctuation, offset: 1031, content: /, id: KR1e0116_WYG_000-bkkpn8}
   - {type: punctuation, offset: 1033, content: ), id: KR1e0116_WYG_000-bkkpn9}
   - {type: 'kr:newline', offset: 1033, content: '
@@ -374,6 +377,7 @@ markers:
   - {type: line-break, offset: 1057, content: '', id: KR1e0116_WYG_000-5a01}
   - {type: indent, offset: 1057, content: 　　　　, id: KR1e0116_WYG_000-bkkind65}
   - {type: punctuation, offset: 1066, content: (, id: KR1e0116_WYG_000-bkkpn13}
+  - {type: voice, offset: 1066, length: 12, name: note, id: n4}
   - {type: punctuation, offset: 1072, content: /, id: KR1e0116_WYG_000-bkkpn14}
   - {type: punctuation, offset: 1078, content: ), id: KR1e0116_WYG_000-bkkpn15}
   - {type: 'kr:newline', offset: 1080, content: '
@@ -422,12 +426,15 @@ markers:
   - {type: line-break, offset: 1189, content: '', id: KR1e0116_WYG_000-5b01}
   - {type: indent, offset: 1189, content: 　　　　　　　　　　　, id: KR1e0116_WYG_000-bkkind73}
   - {type: punctuation, offset: 1192, content: (, id: KR1e0116_WYG_000-bkkpn16}
+  - {type: voice, offset: 1192, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 1193, content: /, id: KR1e0116_WYG_000-bkkpn17}
   - {type: punctuation, offset: 1193, content: ), id: KR1e0116_WYG_000-bkkpn18}
   - {type: punctuation, offset: 1195, content: (, id: KR1e0116_WYG_000-bkkpn19}
+  - {type: voice, offset: 1195, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 1196, content: /, id: KR1e0116_WYG_000-bkkpn20}
   - {type: punctuation, offset: 1196, content: ), id: KR1e0116_WYG_000-bkkpn21}
   - {type: punctuation, offset: 1199, content: (, id: KR1e0116_WYG_000-bkkpn22}
+  - {type: voice, offset: 1199, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 1200, content: /, id: KR1e0116_WYG_000-bkkpn23}
   - {type: punctuation, offset: 1200, content: ), id: KR1e0116_WYG_000-bkkpn24}
   - {type: 'kr:newline', offset: 1203, content: '
@@ -439,6 +446,7 @@ markers:
   - {type: indent, offset: 1205, content: 　, id: KR1e0116_WYG_000-bkkind76}
   - {type: indent, offset: 1206, content: 　, id: KR1e0116_WYG_000-bkkind77}
   - {type: punctuation, offset: 1206, content: (, id: KR1e0116_WYG_000-bkkpn25}
+  - {type: voice, offset: 1206, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 1207, content: /, id: KR1e0116_WYG_000-bkkpn26}
   - {type: punctuation, offset: 1207, content: ), id: KR1e0116_WYG_000-bkkpn27}
   - {type: indent, offset: 1207, content: 　, id: KR1e0116_WYG_000-bkkind78}
@@ -449,4 +457,4 @@ markers:
 
       ', id: KR1e0116_WYG_000-bkkp1}
   back: []
-hash: sha256:744dce14afc1bf534d873c0057026d9ee297024c210264073212a73f98eb8800
+hash: sha256:4f0bd896f795da844bfd9d3c8f4b84e9a84bf8822684728872ede7466cc3ce8b
